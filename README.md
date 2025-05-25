@@ -35,14 +35,6 @@ We combine **real-world pollution data** and **government-reported death records
 
 ---
 
-## 📈 Key Visuals
-
-> 📷 _Plots Include:_
-- 📉 Line plots: Deaths vs. AQI over time
-- 🔥 Heatmap: Pollutant correlation with respiratory/TB deaths
-
----
-
 ## 💡 Key Insights
 
 - Respiratory deaths are **highest between November–January**, aligning with PM2.5 peaks.
